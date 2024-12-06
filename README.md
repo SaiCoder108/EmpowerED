@@ -1,6 +1,6 @@
 # EmpowerED Website
 
-Welcome to the official **EmpowerED** website repository! This project aims to create a professional, interactive website for EmpowerED, a non-profit organization focused on providing innovative educational resources, community engagement, and personalized support to learners of all ages. Visit us here:  [https://saicoder108.github.io/EmpowerED/]
+Welcome to the official **EmpowerED** website repository! This project aims to create a professional, interactive website for EmpowerED, a non-profit organization focused on providing innovative educational resources, community engagement, and personalized support to learners of all ages. Visit us here:  https://saicoder108.github.io/EmpowerED/
 
 
 
